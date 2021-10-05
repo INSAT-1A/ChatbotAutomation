@@ -1,0 +1,4 @@
+applications:
+- name: calculator
+  memory: 128M
+  command: python calculator.py
